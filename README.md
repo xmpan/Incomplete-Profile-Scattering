@@ -29,7 +29,6 @@ A deep learning scheme is proposed to solve the electromagnetic (EM) scattering 
 |-- main_test_2d_pair_iv.py
 |-- requirements.txt
 |-- LICENSE
-|-- .gitignore
 `-- README.md
 ```
 
